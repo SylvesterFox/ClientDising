@@ -1,90 +1,57 @@
 import QtQuick 2.15
-import QtQuick.Window 2.15
 import QtQuick.Controls 2.15
 import QtQuick.Layouts 1.15
+import "Colors.js" as C
 
+// ─────────────────────────────────────────────────────────────────────────────
+// main.qml — точка входа
+//
+// ТРЕБОВАНИЕ:  MaterialIcons-Regular.ttf должен быть добавлен в resources.qrc
+//   <file>MaterialIcons-Regular.ttf</file>
+//
+// Скачать шрифт:
+//   https://github.com/google/material-design-icons/raw/master/font/MaterialIcons-Regular.ttf
+//
+// FontLoader загружается ОДИН РАЗ здесь; все MI.qml используют font.family: C.mat = "Material Icons"
+// ─────────────────────────────────────────────────────────────────────────────
 ApplicationWindow {
-
-    id: root
+    id:      root
     visible: true
-    width: 1200
-    height: 700
-    title: "Chat App"
+    width:   1080
+    height:  768
+    title:   "Драконья Пещера"
+    color:   C.clr_rail
 
-    property bool chatDetached: false
-
-    ColumnLayout {
-        anchors.fill: parent
-        spacing: 0
-
-        // TOP BAR
-        TopBar {
-            Layout.fillWidth: true
-            Layout.preferredHeight: 60
-        }
-
-        // MAIN CONTENT
-        RowLayout {
-            Layout.fillWidth: true
-            Layout.fillHeight: true
-            spacing: 0
-
-            Rectangle {
-                width: 70
-                color: "#1e1f22"
-
-                ListView {
-                    anchors.fill: parent
-                    model: ["S1","S2"]
-
-                    delegate: Button {
-                        text: modelData
-                        width: parent.width
-                        height: 60
-                    }
-                }
-            }
-
-            Rectangle {
-                width: 200
-                color: "#2b2d31"
-
-                ListView {
-                    anchors.fill: parent
-                    model: ["#general","#memes"]
-
-                    delegate: Button {
-                        text: modelData
-                        width: parent.width
-                    }
-                }
-            }
-
-            Loader {
-                id: chatLoader
-                Layout.fillWidth: true
-                Layout.fillHeight: true
-                active: !chatDetached
-                source: "ChatComponent.qml"
-
-                onLoaded: item.chatDetached = Qt.binding(function(){ return root.chatDetached })
-            }
-        }
+    // Загружаем шрифт один раз для всего приложения
+    FontLoader {
+        id:     matIconsLoader
+        source: "qrc:/MaterialIcons-Regular.ttf"
     }
 
-    Window {
-        id: chatWindow
-        visible: root.chatDetached
-        width: 900
-        height: 600
-        title: "Chat Window"
-        color: "#313338"
+    RowLayout {
+        anchors.fill: parent
+        spacing:      0
 
-        ChatComponent {
-            anchors.fill: parent
-            chatDetached: root.chatDetached
+        // ── 1. Рейл серверов (72px) ───────────────────────────────
+        ServerRail {
+            Layout.fillHeight: true
         }
 
-        onClosing: root.chatDetached = false
+        // ── 2. Панель каналов (240px) ─────────────────────────────
+        ChannelSidebar {
+            Layout.fillHeight: true
+            totalHeight:       root.height
+        }
+
+        // ── 3. Область чата ───────────────────────────────────────
+        ChatArea {
+            Layout.fillWidth:  true
+            Layout.fillHeight: true
+        }
+
+        // ── 4. Панель участников (240px) ──────────────────────────
+        MembersSidebar {
+            Layout.fillHeight: true
+        }
     }
 }

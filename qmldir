@@ -1,0 +1,24 @@
+module DiscordUI
+
+# Атомарные компоненты
+MI              1.0 MI.qml
+SqAvatar        1.0 SqAvatar.qml
+
+# Компоненты каналов
+CatHdr          1.0 CatHdr.qml
+ChanRow         1.0 ChanRow.qml
+VoiceUserRow    1.0 VoiceUserRow.qml
+
+# Компоненты участников
+MemCat          1.0 MemCat.qml
+MemRow          1.0 MemRow.qml
+
+# Секции интерфейса
+ServerRail      1.0 ServerRail.qml
+UserPanelTop    1.0 UserPanelTop.qml
+VoiceBar        1.0 VoiceBar.qml
+UserPanelBottom 1.0 UserPanelBottom.qml
+ChannelSidebar  1.0 ChannelSidebar.qml
+MessageDelegate 1.0 MessageDelegate.qml
+ChatArea        1.0 ChatArea.qml
+MembersSidebar  1.0 MembersSidebar.qml

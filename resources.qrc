@@ -1,5 +1,25 @@
+<!DOCTYPE RCC>
 <RCC>
-    <qresource prefix="/">
-        <file>Main.qml</file>
-    </qresource>
+  <qresource prefix="/">
+    <file>MaterialIcons-Regular.ttf</file>
+    <file>CatHdr.qml</file>
+    <file>ChannelSidebar.qml</file>
+    <file>ChanRow.qml</file>
+    <file>ChatArea.qml</file>
+    <file>MembersSidebar.qml</file>
+    <file>MemCat.qml</file>
+    <file>MemRow.qml</file>
+    <file>MessageDelegate.qml</file>
+    <file>MI.qml</file>
+    <file>ServerRail.qml</file>
+    <file>SqAvatar.qml</file>
+    <file>Theme.qml</file>
+    <file>UserPanelBottom.qml</file>
+    <file>VoiceBar.qml</file>
+    <file>VoiceUserRow.qml</file>
+    <file>UserPanelTop.qml</file>
+    <file>Main.qml</file>
+    <file>qmldir</file>
+    <file>Colors.js</file>
+  </qresource>
 </RCC>
