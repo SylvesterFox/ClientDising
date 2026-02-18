@@ -1,2 +1,0 @@
-# Hashes of file build rules.
-6949b8d768c012201770fe7884725564 Client_autogen/timestamp

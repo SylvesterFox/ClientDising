@@ -1,9 +1,0 @@
-/home/dragofox/dev/WyvernClient/build/CMakeFiles/Client.dir
-/home/dragofox/dev/WyvernClient/build/CMakeFiles/edit_cache.dir
-/home/dragofox/dev/WyvernClient/build/CMakeFiles/rebuild_cache.dir
-/home/dragofox/dev/WyvernClient/build/CMakeFiles/list_install_components.dir
-/home/dragofox/dev/WyvernClient/build/CMakeFiles/install.dir
-/home/dragofox/dev/WyvernClient/build/CMakeFiles/install/local.dir
-/home/dragofox/dev/WyvernClient/build/CMakeFiles/install/strip.dir
-/home/dragofox/dev/WyvernClient/build/CMakeFiles/Client_autogen_timestamp_deps.dir
-/home/dragofox/dev/WyvernClient/build/CMakeFiles/Client_autogen.dir

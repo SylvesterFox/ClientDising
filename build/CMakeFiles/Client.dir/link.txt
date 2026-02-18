@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/Client.dir/link.d CMakeFiles/Client.dir/Client_autogen/mocs_compilation.cpp.o CMakeFiles/Client.dir/main.cpp.o CMakeFiles/Client.dir/mainwindow.cpp.o -o Client  /usr/lib64/libQt5Widgets.so.5.15.18 /usr/lib64/libQt5Gui.so.5.15.18 /usr/lib64/libQt5Core.so.5.15.18
