@@ -1,0 +1,25 @@
+# ninja log v7
+1	33	1771445539777996405	/home/dragofox/dev/WyvernClient/build/CMakeFiles/cmake.verify_globs	1e05904b5bcc95f5
+63	146	1771432048615873778	Client_autogen/timestamp	314078db55e685d4
+63	146	1771432048615873778	Client_autogen/mocs_compilation.cpp	314078db55e685d4
+63	146	1771432048615873778	/home/dragofox/dev/WyvernClient/build/Client_autogen/timestamp	314078db55e685d4
+63	146	1771432048615873778	/home/dragofox/dev/WyvernClient/build/Client_autogen/mocs_compilation.cpp	314078db55e685d4
+174	215	1771432048662872747	CMakeFiles/Client.dir/Client_autogen/mocs_compilation.cpp.o	47b6316c6d49dd0e
+175	2107	1771432048663872725	CMakeFiles/Client.dir/main.cpp.o	b61cfb6651ab3478
+129	2437	1770889974640986237	CMakeFiles/Client.dir/mainwindow.cpp.o	14036759b56f6948
+74	547	1771445539850994900	Client	c26357fa6e88db3b
+35	50	1771445539825798229	Client_autogen/EWIEGA46WW/qrc_resources.cpp	1e38734326efea75
+35	50	1771445539825798229	/home/dragofox/dev/WyvernClient/build/Client_autogen/EWIEGA46WW/qrc_resources.cpp	1e38734326efea75
+51	74	1771445539827995374	CMakeFiles/Client.dir/Client_autogen/EWIEGA46WW/qrc_resources.cpp.o	480a30e4cd3306aa
+58	223	1771439202825935658	build.ninja	1069fe96e1cbc2a9
+2	33	1771445753654792288	/home/dragofox/dev/WyvernClient/build/CMakeFiles/cmake.verify_globs	1e05904b5bcc95f5
+2	33	1771445945240636555	/home/dragofox/dev/WyvernClient/build/CMakeFiles/cmake.verify_globs	1e05904b5bcc95f5
+35	48	1771445945285739220	Client_autogen/EWIEGA46WW/qrc_resources.cpp	1e38734326efea75
+35	48	1771445945285739220	/home/dragofox/dev/WyvernClient/build/Client_autogen/EWIEGA46WW/qrc_resources.cpp	1e38734326efea75
+49	74	1771445945287635586	CMakeFiles/Client.dir/Client_autogen/EWIEGA46WW/qrc_resources.cpp.o	480a30e4cd3306aa
+74	565	1771445945312635071	Client	c26357fa6e88db3b
+1	32	1771446208221214420	/home/dragofox/dev/WyvernClient/build/CMakeFiles/cmake.verify_globs	1e05904b5bcc95f5
+34	48	1771446208266213492	Client_autogen/EWIEGA46WW/qrc_resources.cpp	1e38734326efea75
+34	48	1771446208266213492	/home/dragofox/dev/WyvernClient/build/Client_autogen/EWIEGA46WW/qrc_resources.cpp	1e38734326efea75
+48	72	1771446208268213451	CMakeFiles/Client.dir/Client_autogen/EWIEGA46WW/qrc_resources.cpp.o	480a30e4cd3306aa
+72	552	1771446208292212956	Client	c26357fa6e88db3b

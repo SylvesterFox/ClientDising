@@ -1,0 +1,585 @@
+{
+	"globsDependent" : 
+	[
+		{
+			"expression" : "/home/dragofox/dev/WyvernClient/*.c",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "/home/dragofox/dev/WyvernClient/*.c++",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "/home/dragofox/dev/WyvernClient/*.cc",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "/home/dragofox/dev/WyvernClient/*.ch",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "/home/dragofox/dev/WyvernClient/*.cpp",
+			"paths" : 
+			[
+				"/home/dragofox/dev/WyvernClient/build/CMakeFiles/3.31.10/CompilerIdCXX/CMakeCXXCompilerId.cpp",
+				"/home/dragofox/dev/WyvernClient/build/Client_autogen/EWIEGA46WW/moc_mainwindow.cpp",
+				"/home/dragofox/dev/WyvernClient/build/Client_autogen/EWIEGA46WW/qrc_resources.cpp",
+				"/home/dragofox/dev/WyvernClient/build/Client_autogen/mocs_compilation.cpp",
+				"/home/dragofox/dev/WyvernClient/main.cpp"
+			],
+			"recurse" : true
+		},
+		{
+			"expression" : "/home/dragofox/dev/WyvernClient/*.cxx",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "/home/dragofox/dev/WyvernClient/*.h",
+			"paths" : 
+			[
+				"/home/dragofox/dev/WyvernClient/build/Client_autogen/include/ui_mainwindow.h",
+				"/home/dragofox/dev/WyvernClient/build/Client_autogen/moc_predefs.h"
+			],
+			"recurse" : true
+		},
+		{
+			"expression" : "/home/dragofox/dev/WyvernClient/*.h++",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "/home/dragofox/dev/WyvernClient/*.hh",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "/home/dragofox/dev/WyvernClient/*.hpp",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "/home/dragofox/dev/WyvernClient/*.hxx",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "/home/dragofox/dev/WyvernClient/*.java",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "/home/dragofox/dev/WyvernClient/*.js",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "/home/dragofox/dev/WyvernClient/*.jui",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "/home/dragofox/dev/WyvernClient/*.qml",
+			"paths" : 
+			[
+				"/home/dragofox/dev/WyvernClient/Main.qml"
+			],
+			"recurse" : true
+		},
+		{
+			"expression" : "/home/dragofox/dev/WyvernClient/*.qrc",
+			"paths" : 
+			[
+				"/home/dragofox/dev/WyvernClient/resources.qrc"
+			],
+			"recurse" : true
+		},
+		{
+			"expression" : "/home/dragofox/dev/WyvernClient/*.qs",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "/home/dragofox/dev/WyvernClient/*.ui",
+			"paths" : 
+			[
+				"/home/dragofox/dev/WyvernClient/mainwindow.ui"
+			],
+			"recurse" : true
+		}
+	],
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/3.31.10/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/Platform/Linux-Initialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/3.31.10/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/Platform/Linux.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/Platform/UnixPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/Compiler/GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/Platform/Linux-GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/Platform/Linux-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/Internal/CMakeCXXLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/Internal/CMakeCommonLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/Linker/GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/Linker/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/Platform/Linker/Linux-GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/Platform/Linker/Linux-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/Platform/Linker/GNU.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5/Qt5ConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5/Qt5Config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5/Qt5ModuleLocation.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Gui/Qt5GuiConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Core/Qt5CoreConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Core/Qt5CoreConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Core/Qt5CoreConfigExtras.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Core/Qt5CoreMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/CMakeParseArguments.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Gui/Qt5Gui_QComposePlatformInputContextPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Gui/Qt5Gui_QEglFSEmulatorIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Gui/Qt5Gui_QEglFSIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Gui/Qt5Gui_QEglFSKmsEglDeviceIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Gui/Qt5Gui_QEglFSKmsGbmIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Gui/Qt5Gui_QEglFSX11IntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Gui/Qt5Gui_QEvdevKeyboardPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Gui/Qt5Gui_QEvdevMousePlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Gui/Qt5Gui_QEvdevTabletPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Gui/Qt5Gui_QEvdevTouchScreenPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Gui/Qt5Gui_QGtk3ThemePlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Gui/Qt5Gui_QIbusPlatformInputContextPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Gui/Qt5Gui_QJp2Plugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Gui/Qt5Gui_QLibInputPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Gui/Qt5Gui_QLinuxFbIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Gui/Qt5Gui_QMinimalEglIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Gui/Qt5Gui_QMngPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Gui/Qt5Gui_QVncIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Gui/Qt5Gui_QXcbEglIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Gui/Qt5Gui_QXcbGlxIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Gui/Qt5Gui_QXcbIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/CMakeParseArguments.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Qml/Qt5QmlConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Qml/Qt5QmlConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Network/Qt5NetworkConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Network/Qt5NetworkConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Network/Qt5Network_QConnmanEnginePlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Network/Qt5Network_QGenericEnginePlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Network/Qt5Network_QNetworkManagerEnginePlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Qml/Qt5Qml_QDebugMessageServiceFactory.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Qml/Qt5Qml_QLocalClientConnectionFactory.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Qml/Qt5Qml_QQmlDebugServerFactory.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Qml/Qt5Qml_QQmlDebuggerServiceFactory.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Qml/Qt5Qml_QQmlInspectorServiceFactory.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Qml/Qt5Qml_QQmlNativeDebugConnectorFactory.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Qml/Qt5Qml_QQmlNativeDebugServiceFactory.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Qml/Qt5Qml_QQmlPreviewServiceFactory.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Qml/Qt5Qml_QQmlProfilerServiceFactory.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Qml/Qt5Qml_QQuickProfilerAdapterFactory.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Qml/Qt5Qml_QTcpServerConnectionFactory.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Qml/Qt5QmlConfigExtras.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Quick/Qt5QuickConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5Quick/Qt5QuickConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5QmlModels/Qt5QmlModelsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5QmlModels/Qt5QmlModelsConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5QuickControls2/Qt5QuickControls2ConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5QuickControls2/Qt5QuickControls2Config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5LinguistTools/Qt5LinguistToolsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5LinguistTools/Qt5LinguistToolsConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib64/cmake/Qt5LinguistTools/Qt5LinguistToolsMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/CMakeParseArguments.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"path" : "resources.qrc"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "/home/dragofox/dev/WyvernClient/build",
+		"source" : "/home/dragofox/dev/WyvernClient"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 1
+	}
+}

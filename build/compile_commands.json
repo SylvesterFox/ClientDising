@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/dragofox/dev/WyvernClient/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QUICKCONTROLS2_LIB -DQT_QUICK_LIB -DQT_WIDGETS_LIB -I/home/dragofox/dev/WyvernClient/build/Client_autogen/include -isystem /usr/include/qt5 -isystem /usr/include/qt5/QtWidgets -isystem /usr/include/qt5/QtGui -isystem /usr/include/qt5/QtCore -isystem /usr/lib64/qt5/mkspecs/linux-g++ -isystem /usr/include/qt5/QtQml -isystem /usr/include/qt5/QtNetwork -isystem /usr/include/qt5/QtQuick -isystem /usr/include/qt5/QtQmlModels -isystem /usr/include/qt5/QtQuickControls2 -g -std=gnu++17 -fPIC -o CMakeFiles/Client.dir/Client_autogen/mocs_compilation.cpp.o -c /home/dragofox/dev/WyvernClient/build/Client_autogen/mocs_compilation.cpp",
+  "file": "/home/dragofox/dev/WyvernClient/build/Client_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/Client.dir/Client_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/dragofox/dev/WyvernClient/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QUICKCONTROLS2_LIB -DQT_QUICK_LIB -DQT_WIDGETS_LIB -I/home/dragofox/dev/WyvernClient/build/Client_autogen/include -isystem /usr/include/qt5 -isystem /usr/include/qt5/QtWidgets -isystem /usr/include/qt5/QtGui -isystem /usr/include/qt5/QtCore -isystem /usr/lib64/qt5/mkspecs/linux-g++ -isystem /usr/include/qt5/QtQml -isystem /usr/include/qt5/QtNetwork -isystem /usr/include/qt5/QtQuick -isystem /usr/include/qt5/QtQmlModels -isystem /usr/include/qt5/QtQuickControls2 -g -std=gnu++17 -fPIC -o CMakeFiles/Client.dir/main.cpp.o -c /home/dragofox/dev/WyvernClient/main.cpp",
+  "file": "/home/dragofox/dev/WyvernClient/main.cpp",
+  "output": "CMakeFiles/Client.dir/main.cpp.o"
+},
+{
+  "directory": "/home/dragofox/dev/WyvernClient/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QUICKCONTROLS2_LIB -DQT_QUICK_LIB -DQT_WIDGETS_LIB -I/home/dragofox/dev/WyvernClient/build/Client_autogen/include -isystem /usr/include/qt5 -isystem /usr/include/qt5/QtWidgets -isystem /usr/include/qt5/QtGui -isystem /usr/include/qt5/QtCore -isystem /usr/lib64/qt5/mkspecs/linux-g++ -isystem /usr/include/qt5/QtQml -isystem /usr/include/qt5/QtNetwork -isystem /usr/include/qt5/QtQuick -isystem /usr/include/qt5/QtQmlModels -isystem /usr/include/qt5/QtQuickControls2 -g -std=gnu++17 -fPIC -o CMakeFiles/Client.dir/Client_autogen/EWIEGA46WW/qrc_resources.cpp.o -c /home/dragofox/dev/WyvernClient/build/Client_autogen/EWIEGA46WW/qrc_resources.cpp",
+  "file": "/home/dragofox/dev/WyvernClient/build/Client_autogen/EWIEGA46WW/qrc_resources.cpp",
+  "output": "CMakeFiles/Client.dir/Client_autogen/EWIEGA46WW/qrc_resources.cpp.o"
+}
+]
