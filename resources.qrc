@@ -19,6 +19,7 @@
     <file>VoiceUserRow.qml</file>
     <file>UserPanelTop.qml</file>
     <file>Main.qml</file>
+    <file>DiscordScreenshotDesign/Main.qml</file>
     <file>qmldir</file>
     <file>Colors.js</file>
   </qresource>
